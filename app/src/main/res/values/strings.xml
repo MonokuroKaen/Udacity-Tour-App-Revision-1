@@ -1,0 +1,71 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Puerto Rico Guide</string>
+    <string name="category_sights">Sights</string>
+    <string name="category_info">Info</string>
+    <string name="category_shops">Shops</string>
+    <string name="category_food">Food</string>
+    <string name="setting">Settings</string>
+    <string name="image_view" tools:keep="@string/image_view">Image View</string>
+
+    <!-- Sightseeing Information -->
+    <string name="sight_sanfelipe_fort">Castillo San Felipe del Morro</string>
+    <string name="sight_sanfelipe_description">Also known as el morro for locals, it has a small $7 fee per person over 16.</string>
+    <string name="sight_sanfelipe_address">501 Calle Norzagaray, San Juan, 00901, Puerto Rico</string>
+    <string name="sight_sanfelipe_hours">Open daily from 9AM to 6PM</string>
+    <string name="sight_sanfelipe_phone">+1 787-729-6960</string>
+    <string name="describing_image">describing_image</string>
+
+    <string name="sight_combate">Beach El Combate</string>
+    <string name="sight_combate_description">El Combate is at the top of the list for clearest water, best island vibe scene.</string>
+    <string name="sight_combate_address">Combate Beach, PR-3301, Boquerón, 00622, Puerto Rico</string>
+    <string name="sight_combate_hours">Open 24/7</string>
+
+    <!-- Shopping Information -->
+    <string name="shop_plaza_las_americas">Plaza Las America</string>
+    <string name="shop_plaza_description">Plaza Las America was the first indoor shopping mall built in Puerto Rico</string>
+    <string name="shop_plaza_address">525 Av. Franklin Delano Roosevelt, San Juan, 00918, Puerto Rico</string>
+    <string name="shop_plaza_phone">+1 787-767-5202</string>
+    <string name="shop_plaza_hours">Open Mon-Sat from 9AM to 9PM and Sun from 11AM to 7PM</string>
+
+    <string name="shop_old_san_juan">Old San Juan</string>
+    <string name="shop_old_san_juan_addresss">NW triangle of the islet of San Juan</string>
+    <string name="shop_old_san_juan_hours">Hours of operation are determined by the shops in the area</string>
+    <string name="shop_old_san_juan_phones">Phone numbers change from store to store.</string>
+    <string name="shop_old_san_juan_description">Offers a large selection of handcrafted and brand stores throughout its old streets. </string>
+
+    <!-- Food Information -->
+    <string name="guavate">Guavate Home of the lechon</string>
+    <string name="guavate_description">Guavate is located south of San Juan it is one of the best known location to find lechon or
+roast pork in Puerto Rico. </string>
+    <string name="guavate_address">Km. 27.7, PR-184, Cayey, 00736, Puerto Rico</string>
+    <string name="guavate_hours">Hours of operation vary based on what </string>
+
+
+    <string name="pinones">Piñones</string>
+    <string name="pinones_description">Piñones is synonymous with a rich culinary history and Caribbean authenticity.</string>
+    <string name="pinones_address">route 187</string>
+    <string name="pinones_hours">Hours of operation vary between each kiosk and restaurant in the area.</string>
+
+    <!-- Useful Information -->
+    <string name="uber">Uber</string>
+    <string name="uber_phone">Download App</string>
+    <string name="uber_address">Download App</string>
+    <string name="uber_hours">Depended on the the driver</string>
+    <string name="uber_description">It is a peer to peer ride sharing app similar to taxi cab.</string>
+
+    <string name="lyft">Lyft</string>
+    <string name="lyft_phone">Download App</string>
+    <string name="lyft_address">Download App</string>
+    <string name="lyft_hours">Depended on the the driver</string>
+    <string name="lyft_description">It is a peer to peer ride sharing app similar to taxi cab.</string>
+
+    <string name="taxi">Wilbert Taxi</string>
+    <string name="taxi_phone">+1 787-479-9767</string>
+    <string name="taxi_address">https://www.taxisanjuanpr.com/home.html</string>
+    <string name="taxi_hours">Available 24/7</string>
+    <string name="taxi_description">Taxi services that include airport,cruise and V.I.P transportation.</string>
+    <string name="shop">Shop</string>
+    <string name="food">Food</string>
+    <string name="sightseeing">Sightseeing</string>
+    <string name="travel">Travel</string>
+</resources>
